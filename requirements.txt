@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pypdf
+PyMuPDF
+deep-translator
+langdetect
+spacy
